@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\.v]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.v\OpenWithList]
+"MRUList"=-
